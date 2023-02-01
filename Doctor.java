@@ -13,6 +13,7 @@ class Doctor{
 
     public void printinfo() {
         System.out.println(Name);
+        System.out.println(Age);
         
     }
 
